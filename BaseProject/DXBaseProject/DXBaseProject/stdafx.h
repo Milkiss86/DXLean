@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <tchar.h>
 
+#include <d3d9.h>
 
 
 // TODO: reference additional headers your program requires here
